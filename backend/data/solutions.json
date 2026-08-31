@@ -1,0 +1,26 @@
+{
+    "Tomato_Early_blight": {
+        "organic_treatment": "Apply copper-based fungicides or Bacillus subtilis early in the season.",
+        "chemical_treatment": "Use chlorothalonil or mancozeb as directed.",
+        "preventive_measures": "Rotate crops, ensure adequate spacing for airflow, and avoid overhead watering.",
+        "seasonal_tips": "Clear plant debris after harvest to prevent spores from overwintering."
+    },
+    "Potato_Late_blight": {
+        "organic_treatment": "Apply copper sprays proactively before wet weather.",
+        "chemical_treatment": "Use fungicides containing metalaxyl or chlorothalonil at first sign of disease.",
+        "preventive_measures": "Use certified disease-free seed tubers and eliminate volunteer potatoes.",
+        "seasonal_tips": "Monitor humidity; late blight thrives in cool, wet conditions."
+    },
+    "Apple_scab": {
+        "organic_treatment": "Use sulfur or neem oil sprays preventatively.",
+        "chemical_treatment": "Apply myclobutanil or captan during the green tip stage.",
+        "preventive_measures": "Rake and destroy fallen leaves in autumn to reduce overwintering spores.",
+        "seasonal_tips": "Prune trees to improve air circulation and sunlight penetration."
+    },
+    "Healthy_Leaf": {
+        "organic_treatment": "None needed.",
+        "chemical_treatment": "None needed.",
+        "preventive_measures": "Continue standard care routines (watering, fertilizing).",
+        "seasonal_tips": "Regularly monitor for pests and maintain soil health."
+    }
+}
