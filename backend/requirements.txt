@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+Pillow
+torch
+torchvision
+celery
+redis
+slowapi
+PyJWT
